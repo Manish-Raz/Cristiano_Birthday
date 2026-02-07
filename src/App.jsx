@@ -48,6 +48,7 @@ tl.to({}, { duration: 3 })
 <div className="
   text-black
   font-bold
+   flex flex-col
   drop-shadow-md
   mb-6 sm:mb-10 md:mb-16 lg:mb-20
   text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl
@@ -72,6 +73,7 @@ tl.to({}, { duration: 3 })
             <div className="
   text-black
   font-bold
+              flex flex-col
   drop-shadow-md
   mb-6 sm:mb-10 md:mb-16 lg:mb-20
   text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl
@@ -95,6 +97,7 @@ tl.to({}, { duration: 3 })
          <div className="
   text-black
   font-bold
+            flex flex-col
   drop-shadow-md
   mb-6 sm:mb-10 md:mb-16 lg:mb-20
   text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl
@@ -118,6 +121,7 @@ tl.to({}, { duration: 3 })
   <div className="
   text-black
   font-bold
+     flex flex-col
   drop-shadow-md
   mb-6 sm:mb-10 md:mb-16 lg:mb-20
   text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl
@@ -142,6 +146,7 @@ tl.to({}, { duration: 3 })
          <div className="
   text-black
   font-bold
+            flex flex-col
   drop-shadow-md
   mb-6 sm:mb-10 md:mb-16 lg:mb-20
   text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl
